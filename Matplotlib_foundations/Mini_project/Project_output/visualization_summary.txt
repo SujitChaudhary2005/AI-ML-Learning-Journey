@@ -1,0 +1,15 @@
+
+📈 IRIS VISUALIZATION PROJECT SUMMARY
+------------------------------------
+Total Samples: 150
+Number of Species: 3
+Species List: Iris-setosa, Iris-versicolor, Iris-virginica
+
+Observations:
+1. Setosa species are clearly separable in scatter plots.
+2. Petal length and petal width show strong correlation (~0.96).
+3. Boxplots reveal Setosa has much smaller petal dimensions.
+4. Feature distributions are mostly normal, except for petal width skew.
+5. 3D and scatter matrix visuals highlight clear clustering between species.
+
+All plots have been saved in the folder: C:\Users\LOQ\Desktop\Ai ml\AI-ML-Learning-Journey\Matplotlib_foundations\Mini_project\Project_output/
